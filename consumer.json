@@ -1,0 +1,24 @@
+{
+  "Receivers": [
+    {
+      "ReceiverID": 1,
+      "SensorID": 1,
+      "Active": true
+    },
+    {
+      "ReceiverID": 2,
+      "SensorID": 1,
+      "Active": true
+    },
+    {
+      "ReceiverID": 3,
+      "SensorID": 2,
+      "Active": true
+    },
+    {
+      "ReceiverID": 4,
+      "SensorID": 2,
+      "Active": false
+    }
+  ]
+}
